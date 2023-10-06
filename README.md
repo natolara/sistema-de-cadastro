@@ -4,5 +4,5 @@
 Para rodar esse projeto , por favor digite:
 
 ...
-Instalar pacotes do python
+node app.js
 ...      
